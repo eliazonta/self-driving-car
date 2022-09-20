@@ -4,3 +4,8 @@ The course to develop this project is given by [FreeCodeCamp](https://www.freeco
 ## Preview
 
 ![](assets/screen1.png)
+
+## Run the project locally
+1. clone the repo
+2. open the terminal and navigate to che cloned directory
+3. open *index.html* 
